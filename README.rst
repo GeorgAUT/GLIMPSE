@@ -17,7 +17,7 @@ If you use this code in an academic paper, please cite [1]_, [2]_, [3]_, [4]_::
       primaryClass={math.NA}
    }
 
-      @misc{alamabronsard2023symmetric,
+ @misc{alamabronsard2023symmetric,
       title={Symmetric resonance based integrators and forest formulae}, 
       author={Yvonne Alama Bronsard and Yvain Bruned and Georg Maierhofer and Katharina Schratz},
       year={2023},
@@ -26,7 +26,7 @@ If you use this code in an academic paper, please cite [1]_, [2]_, [3]_, [4]_::
       primaryClass={math.NA}
    }
 
-      @misc{banica2022schroedingermaps,
+ @misc{banica2022schroedingermaps,
       title={Numerical integration of {S}chr\"odinger maps via the {H}asimoto transform}, 
       author={Valeria Banica and Georg Maierhofer and Katharina Schratz},
       year={2022},
@@ -35,7 +35,7 @@ If you use this code in an academic paper, please cite [1]_, [2]_, [3]_, [4]_::
       primaryClass={math.NA}
    }
 
-      @misc{feng2023longtime,
+ @misc{feng2023longtime,
       title={Long-time error bounds of low-regularity integrators for nonlinear {S}chr\"odinger equations}, 
       author={Yue Feng and Georg Maierhofer and Katharina Schratz},
       year={2023},
