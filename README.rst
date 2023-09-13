@@ -45,10 +45,10 @@ If you use this code in an academic paper, please cite [1]_, [2]_, [3]_, [4]_::
    }
 
 
-.. [1] Maierhofer, G. and Schratz, K., “Bridging the gap: symplecticity and low regularity in Runge-Kutta resonance-based schemes”, 2022. doi:10.48550/arXiv.2205.05024.
+.. [1] Maierhofer, G. and Schratz, K., “Bridging the gap: symplecticity and low regularity in Runge-Kutta resonance-based schemes”, 2022. arXiv.2205.05024.
 
-.. [2] Alama Bronsard, Y., Bruned, Y., Maierhofer, G. and Schratz, K., “Symmetric resonance based integrators and forest formulae”, 2023. doi:10.48550/arXiv.2305.16737.
+.. [2] Alama Bronsard, Y., Bruned, Y., Maierhofer, G. and Schratz, K., “Symmetric resonance based integrators and forest formulae”, 2023. arXiv.2305.16737.
 
-.. [3] Banica, V., Maierhofer, G. and Schratz, K., “Numerical integration of Schrödinger maps via the {H}asimoto transform”, 2022. doi:10.48550/arXiv.2211.01282.
+.. [3] Banica, V., Maierhofer, G. and Schratz, K., “Numerical integration of Schrödinger maps via the {H}asimoto transform”, 2022. arXiv.2211.01282.
 
-.. [4] Feng, Y., Maierhofer, G. and Schratz, K., “Long-time error bounds of low-regularity integrators for nonlinear Schrödinger equations”, 2023. doi:10.48550/arXiv.2302.00383.
+.. [4] Feng, Y., Maierhofer, G. and Schratz, K., “Long-time error bounds of low-regularity integrators for nonlinear Schrödinger equations”, 2023. arXiv.2302.00383.
