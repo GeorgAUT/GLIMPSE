@@ -1,7 +1,7 @@
 GLIMPSE
 ------
 
-This repository contains a collection of Matlab routines for the testing and implementation of resonance-based low-regularity integrators. The main routines can be found in `src/resonance_based_schemes' and examples illustrating the application of these methods as used in the below mentioned papers are provided in `examples/`.
+This repository contains a collection of Matlab routines for the testing and implementation of resonance-based low-regularity integrators. The main routines can be found in `src/resonance_based_schemes` and examples illustrating the application of these methods as used in the below mentioned papers are provided in `examples/`.
 
 
 
