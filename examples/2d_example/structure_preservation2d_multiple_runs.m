@@ -51,7 +51,7 @@ for jjj=1:size(exp_settings,2)
     u0_hat=u0_hat/norm2d(u0_hat); % normalisation
     
     % Define Hamiltonian
-    Ham=@(u) norm2d(dx(u))^2+norm2d(dy(u))^2+mu/2*norm2d(conv2d(u,u))^2;
+    Ham=@(u) norm2d(dx2d(u))^2+norm2d(dy2d(u))^2+mu/2*norm2d(conv2d(u,u))^2;
     %% Compute the normalisation & Hamiltonian after each step
     M=floor(T/tau);
     tau=T/M;
