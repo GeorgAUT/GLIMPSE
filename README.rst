@@ -6,7 +6,7 @@ This repository contains a collection of Matlab implementations of resonance-bas
 
 
 Acknowledgements
-------
+================
 
 If you use this code in an academic paper, please cite [1]_, [2]_, [3]_, [4]_::
 
