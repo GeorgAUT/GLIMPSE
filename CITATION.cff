@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Maierhofer"
+  given-names: "Georg"
+title: "GLIMPSE"
+version: 0.1.0
+doi: https://doi.org/10.5281/zenodo.15733738
+date-released: 2025-06-24
+url: "https://github.com/GeorgAUT/GLIMPSE"
