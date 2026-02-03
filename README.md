@@ -12,6 +12,7 @@ The code is organised as a small MATLAB library (under `src/`) together with rep
     - `cubic_NLS/`
     - `quadratic_NLS/`
     - `SchroedingerMap/`
+    - low-regularity integrators for a range of systems
   - `classical_numerical_methods/`
     - reference / baseline methods used in comparisons
   - `auxilliary_modules/`
@@ -66,25 +67,21 @@ If you use this software, please cite the Zenodo record:
 If you use this code in an academic paper, please also cite the related publications:
  
 ```bibtex
-@misc{maierhofer2022symplectic,
+@article{maierhofer2022symplectic,
      title={Bridging the gap: symplecticity and low regularity in {R}unge--{K}utta resonance-based schemes},
      author={Georg Maierhofer and Katharina Schratz},
-     year={2022},
-     eprint={2205.05024},
-     archivePrefix={arXiv},
-     primaryClass={math.NA}
+     journal={Mathematics of Computation},
+     year={2025}
   }
  
-@misc{alamabronsard2023symmetric,
+@article{alamabronsard2023symmetric,
      title={Symmetric resonance based integrators and forest formulae},
      author={Yvonne Alama Bronsard and Yvain Bruned and Georg Maierhofer and Katharina Schratz},
-     year={2023},
-     eprint={2305.16737},
-     archivePrefix={arXiv},
-     primaryClass={math.NA}
+     journal={Foundations of Computational Mathematics},
+     year={2026}
   }
  
-@misc{banica2024schroedingermaps,
+@article{banica2024schroedingermaps,
      title={Numerical integration of {S}chr\"odinger maps via the {H}asimoto transform},
      author={Valeria Banica and Georg Maierhofer and Katharina Schratz},
      journal={SIAM Journal on Numerical Analysis},
@@ -95,7 +92,7 @@ If you use this code in an academic paper, please also cite the related publicat
      publisher={SIAM}
   }
  
-@misc{feng2024longtime,
+@article{feng2024longtime,
      title={Long-time error bounds of low-regularity integrators for nonlinear {S}chr\"odinger equations},
      author={Yue Feng and Georg Maierhofer and Katharina Schratz},
      journal={Mathematics of Computation},
@@ -115,8 +112,8 @@ If you use this code in an academic paper, please also cite the related publicat
   }
 ```
  
-1. Maierhofer, G. and Schratz, K., “Bridging the gap: symplecticity and low regularity in Runge-Kutta resonance-based schemes”, 2022. arXiv:2205.05024, to appear in Math. Comp.
-2. Alama Bronsard, Y., Bruned, Y., Maierhofer, G. and Schratz, K., “Symmetric resonance based integrators and forest formulae”, 2023. arXiv:2305.16737.
+1. Maierhofer, G. and Schratz, K., “Bridging the gap: symplecticity and low regularity in Runge-Kutta resonance-based schemes”, Math. Comp., 2025.
+2. Alama Bronsard, Y., Bruned, Y., Maierhofer, G. and Schratz, K., “Symmetric resonance based integrators and forest formulae”, Found. Comp. Math., 2026.
 3. Banica, V., Maierhofer, G. and Schratz, K., “Numerical integration of Schrödinger maps via the Hasimoto transform”, SIAM J. Numer. Anal. 62(1), pp.322-352, 2024.
 4. Feng, Y., Maierhofer, G. and Schratz, K., “Long-time error bounds of low-regularity integrators for nonlinear Schrödinger equations”, Math. Comp. 93(348), pp.1569-1598, 2024.
 5. Cui, J. and Maierhofer, G., “A Wong--Zakai resonance-based integrator for the nonlinear Schrödinger equation with white noise dispersion”, 2025. arXiv:2503.19346.
